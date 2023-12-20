@@ -8,6 +8,7 @@ As a full-stack developer, I leverage the power of the MEAN stack and Java to cr
 - 🔭 I’m currently working on various projects to enhance my programming skills
 - 🌱 I’m currently learning Full-stack Java Development and Software Engineering
 - 📫 How to reach me: cbmacassa@gmail.com
+- ⚡ Chess.com: https://play.chess.com/VK9AL
 
 ### Skills
 ---------------------------------------------------------
