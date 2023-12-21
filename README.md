@@ -4,10 +4,10 @@
 
 As a full-stack developer, I leverage the power of the MEAN stack and Java to craft fully functional web applications ready for deployment. From dynamic user interfaces using Angular to robust server-side logic with Node.js, my projects showcase the seamless integration of MongoDB for efficient data management. As a Software Engineer, I excel in writing low-level code, architecting scalable systems, and implementing innovative solutions. Explore my repository to witness the convergence of my full-stack development skills and software engineering expertise, delivering impactful and polished software solutions.
 
-- 🌍 I'm based in Emalahleni(Witbank),MP, South Affrica.
+- 🌍 I'm based in Emalahleni(Witbank),MP, South Africa.
 - 🔭 I’m currently working on various projects to enhance my programming skills.
 - 🌱 I’m currently learning Full-stack Java Development and Software Engineering.
-- 📫 How to reach me: cbmacassa@gmail.com.
+- ✉️ How to reach me: cbmacassa@gmail.com.
 - ⚡ Chess.com: https://play.chess.com/VK9AL
 
 ## Skills
