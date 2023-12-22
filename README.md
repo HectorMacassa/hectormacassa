@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Hector Macassa.
+# Hector Macassa.
 
 ## Full-Stack Developer. Software Engineer.
 
