@@ -32,7 +32,7 @@ As a full-stack developer, I leverage the power of the MEAN stack and Java to cr
 <a href="YOUR_VSCODE_LINK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vscode-colored.svg" width="36" height="36" alt="VSCode" /></a>
 <a href="YOUR_ECLIPSE_LINK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/eclipse-colored.svg" width="36" height="36" alt="Eclipse" /></a>
 <a href="YOUR_INTELLIJ_LINK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/intellij-colored.svg" width="36" height="36" alt="IntelliJ IDEA" /></a>
-<a href="YOUR_VIM_LINK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36" height="36" alt="Vim" /></a>
+<a href="YOUR_VIM_LINK" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="36" height="36" alt="Vim" /></a>
 
 
 ## Socials
