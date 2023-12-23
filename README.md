@@ -29,10 +29,10 @@ As a full-stack developer, I leverage the power of the MEAN stack and Java to cr
 ## Tools
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="YOUR_VSCODE_LINK" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="36" height="36" alt="VSCode" /></a>
-<a href="YOUR_ECLIPSE_LINK" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Eclipse_Faenza.svg" width="36" height="36" alt="Eclipse" /></a>
-<a href="YOUR_INTELLIJ_LINK" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="36" height="36" alt="IntelliJ IDEA" /></a>
-<a href="YOUR_VIM_LINK" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="36" height="36" alt="Vim" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="36" height="36" alt="VSCode" /></a>
+<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Eclipse_Faenza.svg" width="36" height="36" alt="Eclipse" /></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="36" height="36" alt="IntelliJ IDEA" /></a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="36" height="36" alt="Vim" /></a>
 
 
 ## Socials
