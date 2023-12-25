@@ -18,6 +18,13 @@ As a full-stack developer, I leverage the power of the MEAN stack and Java to cr
 <a href="https://www.learn-c.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+        <a href="https://github.com/hectormacassa">
+            <img align="center" 
+            height="175px"  
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hectormacassa&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+            height="192px" 
+            width="49.5%"/>
+        </a>
 
 ## Frameworks
 
@@ -43,3 +50,5 @@ As a full-stack developer, I leverage the power of the MEAN stack and Java to cr
 <a href="https://www.linkedin.com/in/hectormacassa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/_macassa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
+
+
