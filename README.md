@@ -36,23 +36,13 @@ As a full-stack developer, I leverage the power of the MEAN stack and Java to cr
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="36" height="36" alt="Vim" /></a>
 
 ## Stats
-<div style="float: left; width: 49.5%;">
-    <a href="https://github.com/hectormacassa">
-        <img align="left" height="175px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hectormacassa&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="100%" />
-    </a>
-</div>
-
-<div style="float: right; width: 49.5%;">
-    <a href="https://github.com/hectormacassa">
-        <img align="right" height="175px" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hectormacassa&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="100%" />
-    </a>
-</div>
-
-<div style="clear: both;"></div>
-
-<a href="https://github.com/hectormacassa">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hectormacassa&theme=radical" alt="hectormacassa" />
-</a>
+<p align="center">
+<a href="https://github.com/hectormacassa"><img align="center" height="175px" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hectormacassa&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/hectormacassa"><img align="center" height="175px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hectormacassa&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hectormacassa&theme=radical&border=7F3FBF&background=0D1117" alt="hectormacassa"/><br>
+<a href="https://github.com/hectormacassa"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hectormacassa&theme=radical" alt="hectormacassa"/></a>
+</p>
+<p align="right" ><img src="https://komarev.com/ghpvc/?username=hectormacassa&label=Profile%20views&color=0e75b6&style=flat" alt="hectormacassa"/> </p>
+<details align="right">
 
 
 ## Socials
