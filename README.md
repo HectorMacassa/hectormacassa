@@ -42,7 +42,6 @@ As a full-stack developer, I leverage the power of the MEAN stack and Java to cr
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hectormacassa&theme=radical&border=7F3FBF&background=0D1117" alt="hectormacassa"/><br>
 <a href="https://github.com/hectormacassa"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hectormacassa&theme=radical" alt="hectormacassa"/></a>
 </p>
-<p align="right" ><img src="https://komarev.com/ghpvc/?username=hectormacassa&label=Profile%20views&color=0e75b6&style=flat" alt="hectormacassa"/> </p>
 
 ## Socials
 
