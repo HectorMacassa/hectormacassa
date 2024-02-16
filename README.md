@@ -2,8 +2,7 @@
 
 ## Full-Stack Developer. Software Engineer.
 - 🔭 I’m currently working on various projects to enhance my programming skills.
-- 🌱 Continuously learning Data Structures and Algorithms
-     to improve my critical thinking and problem-solving skills.
+- 🌱 Currently learning Data Structures and Algorithms.
 - 🤝 Open to collaboration.
 - ✉️ How to reach me: cbmacassa@gmail.com
 
