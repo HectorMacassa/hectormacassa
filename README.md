@@ -1,6 +1,5 @@
 # Hector Macassa.
 
-## Full-Stack Developer. Software Engineer.
 - 🔭 I’m currently working on various projects to enhance my programming skills.
 - 🌱 Currently learning Data Structures and Algorithms.
 - 🤝 Open to collaboration.
