@@ -1,4 +1,4 @@
-# Hector Macassa.
+# Hector Macassa
 
 ## Languages
 
